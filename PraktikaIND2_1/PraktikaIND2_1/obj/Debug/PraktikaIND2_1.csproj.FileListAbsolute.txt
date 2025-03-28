@@ -1,0 +1,10 @@
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\bin\Debug\PraktikaIND2_1.exe.config
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\bin\Debug\PraktikaIND2_1.exe
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\bin\Debug\PraktikaIND2_1.pdb
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.csproj.AssemblyReference.cache
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.Form1.resources
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.Properties.Resources.resources
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.csproj.GenerateResource.cache
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.csproj.CoreCompileInputs.cache
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.exe
+C:\Солихов ПР-21\PraktikaIND2_1\PraktikaIND2_1\obj\Debug\PraktikaIND2_1.pdb
